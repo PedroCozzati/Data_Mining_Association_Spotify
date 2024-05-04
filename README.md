@@ -3,3 +3,5 @@ Uso do algoritmo de associação apriori para verificar relações entre música
 
 https://github.com/PedroCozzati/Data_Mining_Association_Spotify/assets/80106385/8f2274ee-dd60-471f-9130-0ceb490a4cef
 
+Aplicação:
+https://app-aappciacao-ddpcsyrdfykedlaovqkt2q.streamlit.app/
